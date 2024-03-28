@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3411\\C#\\project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{710F2600-932F-4130-BDF1-6A60668D39D3}|project4\\project4.csproj|d:\\3411\\c#\\project4\\project4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710F2600-932F-4130-BDF1-6A60668D39D3}|project4\\project4.csproj|solutionrelative:project4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710F2600-932F-4130-BDF1-6A60668D39D3}|project4\\project4.csproj|d:\\3411\\c#\\project4\\project4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{710F2600-932F-4130-BDF1-6A60668D39D3}|project4\\project4.csproj|solutionrelative:project4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\3411\\C#\\project4\\project4\\Form1.cs",
+              "RelativeDocumentMoniker": "project4\\Form1.cs",
+              "ToolTip": "D:\\3411\\C#\\project4\\project4\\Form1.cs",
+              "RelativeToolTip": "project4\\Form1.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAawLsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:10:16.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\3411\\C#\\project4\\project4\\Form1.cs",
+              "RelativeDocumentMoniker": "project4\\Form1.cs",
+              "ToolTip": "D:\\3411\\C#\\project4\\project4\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "project4\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:05:33.831Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+D:\3411이지석\C#\project2\project2\bin\Debug\project2.exe.config
+D:\3411이지석\C#\project2\project2\bin\Debug\project2.exe
+D:\3411이지석\C#\project2\project2\bin\Debug\project2.pdb
+D:\3411이지석\C#\project2\project2\bin\Debug\NModbus4.dll
+D:\3411이지석\C#\project2\project2\bin\Debug\NModbus4.xml
+D:\3411이지석\C#\project2\project2\obj\Debug\project2.csproj.AssemblyReference.cache
+D:\3411이지석\C#\project2\project2\obj\Debug\project2.Form1.resources
+D:\3411이지석\C#\project2\project2\obj\Debug\project2.Properties.Resources.resources
+D:\3411이지석\C#\project2\project2\obj\Debug\project2.csproj.GenerateResource.cache
+D:\3411이지석\C#\project2\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+D:\3411이지석\C#\project2\project2\obj\Debug\project2.csproj.Up2Date
+D:\3411이지석\C#\project2\project2\obj\Debug\project2.exe
+D:\3411이지석\C#\project2\project2\obj\Debug\project2.pdb
